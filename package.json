@@ -22,7 +22,7 @@
     "url": "http://www.justmoon.net"
   },
   "dependencies": {
-    "nan": "~1.6.2"
+    "nan": "https://atom.io/download/atom-shell/nan-1.6.1.tgz"
   },
   "devDependencies": {
     "expresso": ">=0.6.0",
